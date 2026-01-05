@@ -49,4 +49,4 @@ Showcases technical skill through smooth animations, interactive UI, and a clean
 
 > Live demo link below 
 ```txt
-https://prathamdogra-1.github.io/Portfolio/
+https://prathamdogra-1.github.io/My-Portfolio/
